@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 tdubs42/human-rights-first-docdb-be is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [PostgreSQL](http://www.postgresql.org/) – Databases
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -14,11 +15,13 @@ tdubs42/human-rights-first-docdb-be is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 tdubs42/human-rights-first-docdb-be is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -31,14 +34,15 @@ tdubs42/human-rights-first-docdb-be is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tdubs42/human-rights-first-docdb-be](https://github.com/tdubs42/human-rights-first-docdb-be)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|11/09/23 <br/>Report generated|
+|38<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -190,9 +194,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -212,7 +216,9 @@ Full tech stack [here](/techstack.md)
 |[faker](https://www.npmjs.com/faker)|v4.1.0|10/11/21|Ryan Hamblin |MIT|N/A|
 |[helmet](https://www.npmjs.com/helmet)|v3.23.1|10/11/21|Ryan Hamblin |MIT|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|v1.6.3|10/11/21|Ryan Hamblin |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.0|10/11/21|Ryan Hamblin |MIT|N/A|
 |[knex](https://www.npmjs.com/knex)|v0.21.1|11/10/21|Marat Kotik |MIT|[CVE-2016-20018](https://github.com/advisories/GHSA-4jv9-3563-23j3) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.4.2|11/12/21|Bradford-Meziere |MIT|N/A|
 |[morgan](https://www.npmjs.com/morgan)|v1.9.1|10/11/21|Ryan Hamblin |MIT|N/A|
 |[pg](https://www.npmjs.com/pg)|v8.7.1|10/11/21|Ryan Hamblin |MIT|N/A|
 |[prettier-eslint](https://www.npmjs.com/prettier-eslint)|v13.0.0|11/12/21|Bradford-Meziere |MIT|N/A|
@@ -221,4 +227,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
