@@ -2,7 +2,7 @@ repo_name: tdubs42/human-rights-first-docdb-be
 report_id: f7c74ddc96a38f42e76986a05b96c97d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:06:13+00:00'
+timestamp: '2024-02-29T18:23:55+00:00'
 requested_by: paulstgermain
 provider: github
 branch: main
@@ -109,7 +109,7 @@ tools:
   last_updated_by: Ryan Hamblin
   last_updated_on: 2021-10-11 15:23:35.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.5
   license: MIT
@@ -123,7 +123,7 @@ tools:
   last_updated_by: Bradford-Meziere
   last_updated_on: 2021-11-12 19:34:52.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 4.0.2
   license: MIT
